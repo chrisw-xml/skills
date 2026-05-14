@@ -1,0 +1,12 @@
+{
+  "name": "playwright-browser-server",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Playwright HTTP bridge for the Copilot CLI playwright-browser skill",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "dependencies": {
+    "playwright": "^1.44.0"
+  }
+}
