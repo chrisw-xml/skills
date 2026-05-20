@@ -66,4 +66,4 @@ Invoke-RestMethod -Method POST http://localhost:7823/stop
 - To override the detected port, set the `DEV_PORT` env var before calling `/start`
 - If the dev server takes more than 60 s to start, `/start` will return a 504 error
 
-See [REFERENCE.md](REFERENCE.md) for all endpoints and parameters.
+See [REFERENCE.md](references/REFERENCE.md) for all endpoints and parameters.
